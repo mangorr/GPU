@@ -155,7 +155,7 @@ void calGPU(float* playground, float* temp, unsigned int N, unsigned int iterati
 /***************** The GPU version: Write your code here *********************/
 /* This function can call one or more kernels if you want ********************/
 
-// scp heatdist.cu ym2360@access.cims.nyu.edu:/home/ym2360/gpu/lab2
+// scp heatdist.cu nyuID@access.cims.nyu.edu:/home/nyuID/gpu/lab2
 
 void  gpu_heat_dist(float * playground, unsigned int N, unsigned int iterations)
 {
