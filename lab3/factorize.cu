@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <cuda.h>
 
-// ssh ym2360@access.cims.nyu.edu
+// ssh nyuID@access.cims.nyu.edu
 // ssh cuda4
-// scp factorize.cu ym2360@access.cims.nyu.edu:/home/ym2360/gpu/lab3 
+// scp factorize.cu nyuID@access.cims.nyu.edu:/home/nyuID/gpu/lab3 
 // nvcc -o ff factorize.cu -lm
 // time ./ff 10000
 
