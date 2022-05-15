@@ -1,7 +1,7 @@
-// ssh ym2360@access.cims.nyu.edu
+// ssh nyuID@access.cims.nyu.edu
 // ssh cuda4
 // nvcc -o vectorprog vectors.cu -lm
-// password jsK?8rAk
+// password *******
 
 #include <stdio.h>
 #include <stdlib.h>
